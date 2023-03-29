@@ -10,7 +10,7 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 using Dbg = UnityEngine.Debug;
 using UnityObject = UnityEngine.Object;
-
+// this is a test
 
 namespace Unity.AutoLOD
 {
